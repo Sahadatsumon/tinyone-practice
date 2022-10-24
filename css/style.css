@@ -1,0 +1,128 @@
+/*common start*/
+body{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#898989; 
+}
+/*common end*/
+/*header start*/
+header{
+    background-color:#fcdb00; 
+    padding:20px 0;
+}
+.c_nav{
+    
+}
+.logo{
+    
+}
+
+.menu ul li{
+    padding: 0 30px;
+}
+.menu ul li a{
+   font-size: 22px;
+   font-weight: 700;
+   color:#010101!important;
+}
+.menu ul li:last-child a{
+   padding-right: 0 !important; 
+}
+
+.menu ul li a:hover{
+   color: white !important; 
+}
+/*header end*/
+/*slider start*/
+.slider{
+    background-color:#fcdb00; 
+    padding-top:20px;
+}
+.s_text h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+    margin: 70px 0 30px 0;
+}
+.s_text h2{
+    font-size: 20px;
+    font-weight: 400;
+    color: #313841;  
+}
+.s_icon ul li{
+    color: black;
+}
+.s_image{
+   width: 316px; 
+    border-radius: 20px;
+    background-color:#fcdb00;
+    height: 490px;
+}
+/*slider end*/
+/*feature strt*/
+/*1st row*/
+.feature{
+   padding: 90px 0; 
+}
+.c_h1{
+       font-size: 32px;
+       font-weight: 700;
+       color: #010101;
+       text-align: center;
+}
+.c_p{
+   text-align: center;
+}
+/*2nd row*/
+.f_item{
+    
+}
+.f_h2{
+    font-size: 22px;
+    font-weight: 400;
+    color: black;
+}
+.f_p{
+   
+}
+/*feature end*/
+/*footer up start*/
+.f_up{
+    background-color: black;
+}
+.f_head{
+    font-size: 32px;
+    font-weight: 700;
+    color:#fcdb00;
+}
+.f_text1{
+   margin-bottom: 32px; 
+   font-size: 20px; 
+   padding: 0 130px;
+}
+.f_b{
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400; 
+}
+.f_b1{
+  padding: 0 150px;  
+}
+.f_icon2{
+    margin-top: 30px;
+    color:#fcdb00; 
+}
+.s_pad{
+   margin: 5px;
+   width: 20px;
+}
+/*footer up end*/
+/*footer start*/
+.f_contact{
+    padding: 30px 0px;
+}
+.f_c{
+  color: #ffffff; 
+}
+
+/*footer end*/
